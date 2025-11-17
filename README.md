@@ -3,4 +3,8 @@ Cet Outils vous sera utile pour vérifier votre mot de passe si elle est FAIBLE 
 
 # Installation 
 
-*git clone 
+git clone  https://github.com/RootAcces07/Psswd-Verify.git
+
+cd Psswd-Verify
+
+py Psswd-Verify.py
