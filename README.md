@@ -7,4 +7,4 @@ git clone  https://github.com/RootAcces07/Psswd-Verify.git
 
 cd Psswd-Verify
 
-py Psswd-Verify.py
+python Psswd-Verify.py
